@@ -33,6 +33,7 @@ I used Microsoft Excel to analyze and visualize the sales data, leveraging funct
 ### Visualization
 
 This dashboard provides an overview of sales performance from 2015 to 2017, with key metrics such as total revenue, total orders, total quantity, customer segments, product performance, and shipping modes. 
+
 ![](images/sales_db.png)
 
 ---
